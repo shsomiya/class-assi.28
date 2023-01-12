@@ -1,0 +1,210 @@
+
+
+    @media (min-width:991px) and (max-width:1200px){
+        header.top.d-flex.justify-content-between {
+            margin-left: 40px;
+        }
+        .navbar img{
+            max-width: 100px;
+        }
+
+        .navbar-nav {
+            margin-left:180px;
+        }
+        .container {
+            max-width: 100%;
+        }
+        .banner {
+            margin-left: 60px;
+        }
+        .about-img.my-3.border {
+            margin-left: 49px;
+        }
+        .mark {
+            margin: 20px 87px;
+        }
+        .row.my-5 {
+            margin-left: 74px;
+        }
+        .table.border.bg-light.w-75.p-5.mx-4 {
+            padding: 20px 0!important;
+        }
+
+    
+        .row {
+            margin-right: 0px;
+            margin-left: 51px;
+        }
+        .cards {
+            height: 500px;
+
+        }
+
+        .form {
+            width: 648px;
+            /* margin: auto; */
+            margin-left: -50px;
+          
+        }
+    }
+
+
+    @media (min-width:768px) and (max-width:990px){
+        .container {
+            max-width: 100%;
+        }
+        header.top.d-flex.justify-content-between {
+            margin-left: 13px;
+        }
+        .navbar-nav {
+            margin-left: 73px;
+        }
+        .navbar img{
+            max-width: 50px;
+        }
+        .banner-img {
+            margin-left: -20px;
+        }
+        .about.my-5.mr-2 {
+            margin-left: 51px;
+        }
+        .banner {
+            margin-left: 14px;
+        }
+
+        .table {
+            padding: 0 5px!important;
+            margin-left: 50px!important;
+        }
+
+        .cards {
+            height: 600px;
+          
+        }
+        .row {
+            margin-left: 13px;
+        }
+
+    }
+
+    @media (min-width:577px) and (max-width:767px){
+
+        .top .container {
+            max-width: 100%;
+            background-color: #f8f9fa;
+        }
+        
+        .banner{
+           max-width:100% ;
+           margin-left:150px;
+
+        }
+        .banner-img{
+            margin-left:150px;       
+         }
+
+            .about-img.my-3.border {
+                margin-left:150px;
+            }
+            .about.my-5.mr-2 {
+                margin-left:150px;
+                width:100%;
+            }
+
+            .count {
+                margin-left:150px!important;
+              
+            }
+            .price{
+                margin-left:150px!important;
+                width: 400px;
+                height: auto;
+            }
+            .table {
+                padding: 0 5px!important;
+            
+            }
+   
+
+            .cards{
+                margin-left:150px!important; 
+                width: 400px;
+                height: auto;
+            }
+            .form-content{
+                margin-left:150px!important;
+                width: 100%;
+            }
+            .footer{
+               margin-left: 150px;
+                padding:10px 20px ;
+                width: 100%;
+            
+            }
+            .footer h2{
+                font-size: 20px!important;
+            }
+    }
+
+    @media screen and (max-width:576px){
+        .top .container {
+            max-width: 100%;
+            background-color: #f8f9fa;
+        }
+       
+        .nav-item .nav-link {
+            font-size:10px !important;
+          }
+      
+        .banner{
+           max-width:100% ;
+           margin-left:200px;
+
+        }
+        .banner-img{
+            margin-left:200px;       
+         }
+
+            .about-img.my-3.border {
+                margin-left:200px;
+            }
+            .about.my-5.mr-2 {
+                margin-left:200px;
+                width:100%;
+            }
+
+            .count {
+                margin-left:200px!important;
+              
+            }
+            .price{
+                margin-left:200px!important;
+                width: 400px;
+                height: auto;
+            }
+            .table {
+                padding: 0 5px!important;
+            
+            }
+   
+
+            .cards{
+                margin-left:200px!important; 
+                width: 400px;
+                height: auto;
+            }
+            .form-content{
+                margin-left:80px!important;
+                width: 100%;
+            }
+            .footer{
+               margin-left: 50px;
+                padding:10px 20px ;
+                width: 100%;
+            
+            }
+            .footer h2{
+                font-size:10px!important;
+            }
+
+    }
